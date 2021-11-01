@@ -1,0 +1,17 @@
+h1 {
+    font-family: Arial Black, Helvetica;
+}
+
+hr {
+    height: 1.5px;
+    background-color: yellow;
+}
+
+.changes:hover {
+    color: white;
+}
+
+#Head {
+    background-color: #00BFFF;
+    margin: 0px;
+}
